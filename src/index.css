@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto slab;
+}
+
+:root {
+    --light-gray1:#f2f2f2; /*BG of sections*/
+    --light-gray2:#e3e3e3; /*button hovers*/
+    --dark-gray1: #222831; /*Border of sections*/
+    --blue1:#0092ca;
+    --blue1:#0092ca;
+}
+
+
+html {
+    overflow-x: hidden;
+    margin-right: calc(-1 * (100vw - 100%));
+  }
+
+
+.root-layout {
+
+    flex-direction: column;
+    max-width: 1000px;
+
+    margin: 20px auto;
+    
+
+}
+
+.root-layout-header {
+    margin: 0 0 20px 0;
+}
+
+.page-header {
+    background-color: var(--light-gray1);
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 2px solid var(--dark-gray1);
+}
+
+.page-header h1 {
+    color: #142d4c;
+    /*color: #142d4c;*/
+}
+
+.page-navbar {
+    background-color: var(--light-gray1);
+    display: flex;
+    border: 2px solid var(--dark-gray1);
+}
+
+.page-navbar a{
+    text-decoration:none;
+    background-color: var(--light-gray1);
+    padding: 20px;
+    color: black;
+    font-weight: 800;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 12%;
+}
+
+.page-navbar a:last-child{
+    margin-left:auto;
+}
+
+.page-navbar a:hover{
+    background-color: var(--light-gray2);
+}
+
+.page-navbar a.active{
+    background-color: var(--blue1);
+    color: var(--light-gray1);
+}
+
+.root-content {
+    background-color: var(--light-gray1);
+}
+
+.root-footer {
+    margin-top: 80px;
+    width: 100%;
+    background-color: var(--light-gray1);
+    text-align:center;
+    padding: 5px;
+    bottom: 0px;
+    left: 0px;
+    position:sticky;
+}
+
+
+/* HOME */
+
+.home {
+    padding: 20px;
+}
+
+.home p{
+    margin: 25px;
+}
+
+.about {
+    padding: 20px;
+}
+
+.about p{ 
+    margin: 25px;
+    height: 80%;
+}
+
+/* RACQUETS PAGE */
+.racquets {
+    padding: 15px;
+}
+
+.racquets-list {
+    margin-top: 20px;
+    display:flex;
+    flex-direction: column;
+}
+
+.racquet-row {
+    display:flex;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: var(--light-gray2);
+}
+.racquet-row-title {
+    padding-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.racquet-row a {
+    text-decoration:none;
+    color:black;
+    background-color:var(--light-gray2);
+    margin-left: auto;
+    padding: 5px;
+    border: 2px solid var(--dark-gray1);
+}
+
+/* RACQUETS DETAILS PAGE */
+
+.racquet-details {
+    padding: 20px;
+}
+
+.racquet-details h2{
+    background-color:var(--light-gray2);
+    padding: 5px;
+}
+
+.racquet-row  h2{
+    padding: 15px;
+}
+
+.racquet-row a{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: var(--light-gray1);
+    font-weight: 800;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+.rdt-row {
+    display:flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+.rdt-row .rdt-row-name {
+    width: 20%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.rdt-row .rdt-row-value {
+    width: 40%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ebayifi {
+    margin-top: 80px;
+    border-top: 1px solid var(--dark-gray1);
+    padding: 20px;
+}
+
+.ebayifi h3 {
+    padding: 10px;
+}
+
+.ebayifi-row {
+    padding: 2px 10px;
+}

@@ -1,0 +1,232 @@
+{
+    "racquets" : [
+        {
+            "id": "1",
+            "model": "Percept",
+            "submodel": "97D",
+            "yonexItemCode": "01PE97",
+            "specs": 
+                {
+                    "headSize": "97 sq.in.",
+                    "weight": "310 g / 10.9 oz",
+                    "gripSize": "1 - 5",
+                    "length": "27 in.",
+                    "widthRange": "21 mm - 21 mm - 21 mm",
+                    "balancePoint": "310 mm",
+                    "color": "Olive Green",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "45 - 60 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "2",
+            "model": "Percept",
+            "submodel": "100L",
+            "yonexItemCode": "01PE100L",
+            "specs": 
+                {
+                    "headSize": "100 sq.in.",
+                    "weight": "280 g / 9.9 oz",
+                    "gripSize": "0 - 4",
+                    "length": "27 in.",
+                    "widthRange": "23 mm - 23 mm - 23 mm",
+                    "balancePoint": "335 mm",
+                    "color": "Olive Green",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "40 - 55 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "3",
+            "model": "Percept",
+            "submodel": "100D",
+            "yonexItemCode": "01PE100D",
+            "specs": 
+                {
+                    "headSize": "100 sq.in.",
+                    "weight": "305 g / 10.8 oz",
+                    "gripSize": "1 - 5",
+                    "length": "27 in.",
+                    "widthRange": "23 mm - 23 mm - 23 mm",
+                    "balancePoint": "315 mm",
+                    "color": "Olive Green",
+                    "stringPattern": "18 x 19",
+                    "stringAdvice": "45 - 60 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "4",
+            "model": "Percept",
+            "submodel": "97L",
+            "yonexItemCode": "01PE97L",
+            "specs": 
+                {
+                    "headSize": "97 sq.in.",
+                    "weight": "290 g / 10.2 oz",
+                    "gripSize": "0 - 4",
+                    "length": "27 in.",
+                    "widthRange": "21 mm - 21 mm - 21 mm",
+                    "balancePoint": "325 mm",
+                    "color": "Olive Green",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "45 - 60 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "5",
+            "model": "Percept",
+            "submodel": "100",
+            "yonexItemCode": "01PE100L",
+            "specs": 
+                {
+                    "headSize": "100 sq.in.",
+                    "weight": "280 g / 9.9 oz",
+                    "gripSize": "0 - 4",
+                    "length": "27 in.",
+                    "widthRange": "23 mm - 23 mm - 23 mm",
+                    "balancePoint": "335 mm",
+                    "color": "Olive Green",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "40 - 55 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "6",
+            "model": "Ezone",
+            "submodel": "100 Aqua Night",
+            "yonexItemCode": "07EZ100",
+            "specs": 
+                {
+                    "headSize": "100 sq.in.",
+                    "weight": "300 g / 10.6 oz",
+                    "gripSize": "1 - 5",
+                    "length": "27 in.",
+                    "widthRange": "23.8 mm - 16.5 mm - 22.5 mm",
+                    "balancePoint": "320 mm",
+                    "color": "Aqua Night Black",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "45 - 60 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "7",
+            "model": "Ezone",
+            "submodel": "100L Aqua Night",
+            "yonexItemCode": "07EZ100L",
+            "specs": 
+                {
+                    "headSize": "100 sq.in.",
+                    "weight": "285 g / 10.1 oz",
+                    "gripSize": "0 - 4",
+                    "length": "27 in.",
+                    "widthRange": "23.8 mm - 26.5 mm - 22.5 mm",
+                    "balancePoint": "325 mm",
+                    "color": "Aqua Night",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "40 - 55 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "8",
+            "model": "Ezone",
+            "submodel": "98 Aqua Night",
+            "yonexItemCode": "07EZ98",
+            "specs": 
+                {
+                    "headSize": "98 sq.in.",
+                    "weight": "305 g / 10.8 oz",
+                    "gripSize": "1 - 5",
+                    "length": "27 in.",
+                    "widthRange": "23.5 mm - 25 mm - 21 mm",
+                    "balancePoint": "315 mm",
+                    "color": "Aqua Night",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "45 - 60 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "9",
+            "model": "VCore",
+            "submodel": "100L",
+            "yonexItemCode": "07VC100L",
+            "specs": 
+                {
+                    "headSize": "100 sq.in.",
+                    "weight": "280 g / 9.9 oz",
+                    "gripSize": "0 - 4",
+                    "length": "27 in.",
+                    "widthRange": "25.3 mm - 25.3 mm - 22 mm",
+                    "balancePoint": "330 mm",
+                    "color": "Scarlet",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "40 - 55 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "10",
+            "model": "VCore",
+            "submodel": "100",
+            "yonexItemCode": "07VC100",
+            "specs": 
+                {
+                    "headSize": "100 sq.in.",
+                    "weight": "300 g / 10.6 oz",
+                    "gripSize": "1 - 5",
+                    "length": "27 in.",
+                    "widthRange": "25.3 mm - 25.3 mm - 22 mm",
+                    "balancePoint": "320 mm",
+                    "color": "Scarlet",
+                    "stringPattern": "16 x 19",
+                    "stringAdvice": "45 - 60 lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "11",
+            "model": "VCore",
+            "submodel": "95",
+            "yonexItemCode": "--",
+            "specs": 
+                {
+                    "headSize": " sq.in.",
+                    "weight": " g /  oz",
+                    "gripSize": " - ",
+                    "length": " in.",
+                    "widthRange": " mm -  mm -  mm",
+                    "balancePoint": " mm",
+                    "color": "color",
+                    "stringPattern": " x ",
+                    "stringAdvice": " -  lbs",
+                    "madeIn": "Japan"
+                }
+        },
+        {
+            "id": "12",
+            "model": "VCore",
+            "submodel": "98",
+            "yonexItemCode": "07VC95",
+            "specs": 
+                {
+                    "headSize": "95 sq.in.",
+                    "weight": "310 g / 10.9 oz",
+                    "gripSize": "1 - 5",
+                    "length": "27 in.",
+                    "widthRange": "22 mm - 22 mm - 21 mm",
+                    "balancePoint": "310 mm",
+                    "color": "Scarlet",
+                    "stringPattern": "16 x 20",
+                    "stringAdvice": "45 - 60 lbs",
+                    "madeIn": "Japan"
+                }
+        }
+    ]
+}

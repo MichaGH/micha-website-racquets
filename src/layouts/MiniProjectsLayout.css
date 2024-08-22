@@ -1,0 +1,23 @@
+.miniprojects-navbar {
+    display:flex;
+    border: 2px solid var(--dark-gray1);
+}
+
+.miniprojects-navbar a {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 20px 5px 20px;
+    text-align:center;
+    width: 10%;
+    text-decoration:none;
+    color:black;
+}
+
+.miniprojects-navbar a:first-child{
+    margin-right:auto;
+}
+
+.miniprojects-navbar a.active{
+    background-color:var(--blue1);
+}
